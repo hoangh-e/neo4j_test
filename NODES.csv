@@ -1,0 +1,27 @@
+nodeId,name,type,size,registrationNumber,price,expiryDate,shelfLife,icdCode,severity,formula,molarMass,function,origin,established,employees,headquarters,capacity,certification,code,gdp,description,authority,validPeriod
+paracetamol,Paracetamol 500mg,drug,25,VD-123-456,15000 VND,2025-12-31,3 năm,,,,,,,,,,,,,,,,
+aspirin,Aspirin 100mg,drug,20,VD-789-012,12000 VND,2026-06-30,2 năm,,,,,,,,,,,,,,,,
+amoxicillin,Amoxicillin 250mg,drug,22,VD-345-678,25000 VND,2025-09-15,3 năm,,,,,,,,,,,,,,,,
+headache,Đau đầu,disease,20,,,,,R51,Nhẹ đến trung bình,,,,,,,,,,,,,
+fever,Sốt,disease,18,,,,,R50,Nhẹ đến nặng,,,,,,,,,,,,,
+infection,Nhiễm khuẩn,disease,22,,,,,A49,Trung bình đến nặng,,,,,,,,,,,,,
+inflammation,Viêm,disease,18,,,,,M79,Nhẹ đến trung bình,,,,,,,,,,,,,
+paracetamol_substance,Paracetamol (Hoạt chất),active_substance,18,,,,,,,C8H9NO2,151.16 g/mol,,,,,,,,,,,,
+acetylsalicylic_acid,Acid acetylsalicylic,active_substance,16,,,,,,,C9H8O4,180.16 g/mol,,,,,,,,,,,,
+amoxicillin_substance,Amoxicillin (Hoạt chất),active_substance,18,,,,,,,C16H19N3O5S,365.4 g/mol,,,,,,,,,,,,
+microcrystalline_cellulose,Microcrystalline Cellulose,ingredient,15,,,,,,,,,Chất độn,Thực vật,,,,,,,,,,
+magnesium_stearate,Magnesium Stearate,ingredient,12,,,,,,,,,Chất bôi trơn,Tổng hợp,,,,,,,,,,
+starch,Tinh bột ngô,ingredient,14,,,,,,,,,Chất rã,Thực vật,,,,,,,,,,
+pfizer,Pfizer Inc.,company,22,,,,,,,,,,,1849,83000+,New York USA,,,,,,,
+gsk,GlaxoSmithKline,company,20,,,,,,,,,,,2000,95000+,London UK,,,,,,,
+traphaco,Traphaco,company,18,,,,,,,,,,,1972,5000+,Hà Nội Việt Nam,,,,,,,
+pfizer_facility_ny,Nhà máy Pfizer - New York,facility,16,,,,,,,,,,,,,,10 triệu đơn vị/năm,GMP FDA,,,,
+traphaco_facility_hn,Nhà máy Traphaco - Hà Nội,facility,15,,,,,,,,,,,,,,5 triệu đơn vị/năm,GMP WHO,,,,
+usa,Hoa Kỳ,country,16,,,,,,,,,,,,,,,,,US,$21.43 trillion,,
+uk,Vương quốc Anh,country,14,,,,,,,,,,,,,,,,,GB,$2.83 trillion,,
+vietnam,Việt Nam,country,15,,,,,,,,,,,,,,,,,VN,$362.6 billion,,
+tablet,Viên nén,dosage_form,14,,,,,,,,,,,,,,,,,,Dạng rắn uống,,
+capsule,Viên nang,dosage_form,12,,,,,,,,,,,,,,,,,,Dạng nang uống,,
+fda_approval,Phê duyệt FDA,regulation,14,,,,,,,,,,,,,,,,,,,FDA,5 năm
+who_prequalification,Tiền thẩm định WHO,regulation,12,,,,,,,,,,,,,,,,,,,WHO,3 năm
+vietnamese_drug_approval,Số đăng ký lưu hành VN,regulation,13,,,,,,,,,,,,,,,,,,,Bộ Y tế VN,5 năm
